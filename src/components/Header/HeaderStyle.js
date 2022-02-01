@@ -11,7 +11,7 @@ div {
 	display: flex;
 	max-width: 992px;
 	margin: auto;
-  width: 100%;
+    width: 100%;
 	min-width: 320px;
 }
 
@@ -23,7 +23,7 @@ ul {
 	display: flex;
 	align-items: center;
 	width: 100%;
-	max-width: 260px;
+	max-width: 350px;
 	justify-content: space-between;
 }
 

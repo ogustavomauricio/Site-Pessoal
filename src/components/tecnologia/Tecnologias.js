@@ -4,7 +4,7 @@ import {Container, Title, ContainerList, Traco, TitleTech} from './TechStyle.js'
 class Tecnologias extends React.Component{
   render() {
     return (
-      <Container>
+      <Container id="tech">
 		  <div>
 			<Title>Tecnologias</Title>  
 		  </div>

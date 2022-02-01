@@ -16,10 +16,10 @@ class Header extends React.Component{
 				  	  <a href="#sobreMim">Sobre Mim</a>
 				   	</li>
 				 	  <li>
-				 		  <a href="#">Projetos</a>
+				 		  <a href="#Projects">Projetos</a>
 			    	</li>
 			    	<li>
-				  	  <a href="#">Contato</a>
+				  	  <a href="#tech">Tecnologias</a>
 				 	  </li>
 		  	  </ul>			  
 			 	</div>

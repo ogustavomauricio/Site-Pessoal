@@ -1,6 +1,6 @@
 import React from "react";
 // import { Container, Card, ContainerInterno} from "./ProjectStyle";
-import TRYBEWALLET from "../../img/trybewallet.gif";
+// import TRYBEWALLET from "../../img/trybewallet.gif";
 import "./ProjectStyle.css";
 
 class Project extends React.Component {
